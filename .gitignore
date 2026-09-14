@@ -6,14 +6,14 @@ yarn-debug.log*
 yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
-src/components/AdminLogin/
-src/components/ProjectDashboard/
+src/components/AdminLogin.jsx
+src/components/ProjectDashboard.jsx
 node_modules
 dist
 dist-ssr
 *.local
 
-ProjectDashboard.jsx
+
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
